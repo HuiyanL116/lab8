@@ -1,6 +1,6 @@
 function initCamera() {
   // Uncomment and fill in the correct selectors below.
-  // capture($('<Your code here>'),
+  // capture($('<video autoplay id=>'),
   //        $('<Your code here>'),
   //        $('<Your code here>'));
 
